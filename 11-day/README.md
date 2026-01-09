@@ -8,7 +8,7 @@ This is where Seaborn comes in. Seaborn is a Python visualization library built 
 
 This post will guide you through four of the most impactful—and perhaps lesser-known—features that make Seaborn an essential tool for any data analyst or scientist. Get ready to unlock sophisticated, publication-quality plots with shockingly little code.
 
-![Seaborn Basics](../data/11-day-seaborn.png)
+![Seaborn Basics](https://raw.githubusercontent.com/yasirali646/100DaysOfML/refs/heads/main/data/11-day-seaborn.png)
 
 ## 1. Get a Full Relationship Matrix in a Single Line of Code
 
